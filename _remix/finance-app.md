@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Payment app
+title: Finance app
 header: no
 categories:
   - Εργαλεία και Τεχνικές
