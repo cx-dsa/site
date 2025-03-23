@@ -21,6 +21,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
+custom_css:
+  - "/assets/css/custom.css"
+
 reCaptcha:
   siteKey                :
   secret                 :
@@ -211,6 +214,9 @@ collections:
   slides:
     output: true
     permalink: /slides/:path/
+  compare:
+    output: true
+    permalink: /compare/:path/ 
   making:
     output: true
     permalink: /making/:path/
